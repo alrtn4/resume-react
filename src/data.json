@@ -1,0 +1,91 @@
+{
+    "title": "Hello I'm Alireza",
+    "subtitle": "Front End Dev",
+    "links": {
+        "github": "https://github.com/alrtn4",
+        "stackoverflow": "https://stackoverflow.com/story/iamalireza",
+        "linkedin": "https://ir.linkedin.com/in/iamalireza"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items":[
+                {
+                    "type": "p",
+                    "content": "Currently, Front End Developer with 1 year of experience in Information Technology and Service Industry."                },
+                {
+                    "type": "p",
+                    "content": "My expertise includes Front End Technologies, Java, JavaScript."
+                },
+                {
+                    "type": "p",
+                    "content": "My Experience in Technology from whatching video courses helped me to position myself in technical streams."
+                }
+            ]
+        },
+        {
+            "title": "skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "devicon-react-original",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "devicon-javascript-plain",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "devicon-html5-plain",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "devicon-css3-plain",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "devicon-jquery-plain",
+                        "title": "JQuery"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "devicon-java-plain",
+                        "title": "Java"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down.png"
+    },
+    "colorsbackgrounds": [
+        {
+            "color": "MediumBlue",
+            "background": "AliceBlue"
+        },
+        {
+            "color": "DarkGreen",
+            "background": "PaleGreen"
+        },
+        {
+            "color": "Maroon",
+            "background": "IndianRed"
+        }
+    ]
+}

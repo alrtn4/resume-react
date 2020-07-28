@@ -1,0 +1,19 @@
+.nav-list {
+    position: fixed;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+}
+.link{
+    float: right;
+    text-decoration: underline;
+    margin: 0 10px 0 10px;
+    cursor: pointer;
+}
+#last-item {
+    float: left;
+}
+#first-item {
+    margin-right: 25px;
+}

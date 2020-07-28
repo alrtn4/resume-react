@@ -1,0 +1,48 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://alrtn4.github.io/resume-react",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "react": "^16.13.1",
+    "react-devicon": "^0.1.9",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "react-scroll": "^1.8.0",
+    "react-simple-icons": "^1.0.0-beta.5",
+    "react-snow-effect": "^1.2.0",
+    "react-snow-particle": "^1.0.6",
+    "react-snowflakes": "^1.0.0",
+    "react-snowstorm": "0.0.3",
+    "social-media-icons-react": "^1.0.10"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-social-icons": "^4.1.0"
+  }
+}

@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.social-container {
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+    display: inline;
+}
